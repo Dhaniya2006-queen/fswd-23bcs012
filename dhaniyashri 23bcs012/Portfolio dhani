@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dhaniyashri | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Dhaniyashri S</h1>
+        <p>Aspiring Software Developer</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a passionate computer science student with interest in
+            software development, data analysis, and web technologies.
+            I enjoy learning new tools and building real-time projects.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Python</li>
+            <li>SQL</li>
+            <li>Data Analysis (Excel, Basics of Power BI)</li>
+            <li>Git & GitHub</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Student Result Management System</h3>
+            <p>
+                A web-based application to store and manage student results
+                using HTML, CSS, and JavaScript.
+            </p>
+        </div>
+
+        <div class="project">
+            <h3>Employee Performance Analysis</h3>
+            <p>
+                Analyzed employee data using Excel and basic data analysis
+                techniques to improve performance insights.
+            </p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: dhaniyashri@email.com</p>
+        <p>GitHub: github.com/dhaniyashri</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Dhaniyashri. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
